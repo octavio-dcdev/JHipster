@@ -1,0 +1,23 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "firstName",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "nameCollege",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "pursueMBA",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20170403183833",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "to_do",
+    "pagination": "infinite-scroll"
+}

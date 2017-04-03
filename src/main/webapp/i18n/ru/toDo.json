@@ -1,0 +1,23 @@
+{
+    "jHipsterApp": {
+        "toDo" : {
+            "home": {
+                "title": "To Dos",
+                "createLabel": "Создать новый To Do",
+                "createOrEditLabel": "Создать или отредактировать To Do"
+            },
+            "created": "Новый To Do создан с идентификатором {{ param }}",
+            "updated": "To Do обновлен с идентификатором {{ param }}",
+            "deleted": "To Do удален с идентификатором {{ param }}",
+            "delete": {
+                "question": "Вы уверены что хотите удалить To Do {{ id }}?"
+            },
+            "detail": {
+                "title": "To Do"
+            },
+            "firstName": "First Name",
+            "nameCollege": "Name College",
+            "pursueMBA": "Pursue MBA"
+        }
+    }
+}
